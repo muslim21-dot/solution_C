@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725918714 source:c:\users\mu prive\desktop\cc\day03\chain de caracter\trouver un sous-string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
